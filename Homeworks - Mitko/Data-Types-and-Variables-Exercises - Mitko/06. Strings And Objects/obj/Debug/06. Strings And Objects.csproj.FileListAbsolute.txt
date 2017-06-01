@@ -1,6 +1,0 @@
-D:\SoftUni\Git Homeworks\homeworks\Homeworks - Mitko\Data-Types-and-Variables-Exercises - Mitko\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe.config
-D:\SoftUni\Git Homeworks\homeworks\Homeworks - Mitko\Data-Types-and-Variables-Exercises - Mitko\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe
-D:\SoftUni\Git Homeworks\homeworks\Homeworks - Mitko\Data-Types-and-Variables-Exercises - Mitko\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.pdb
-D:\SoftUni\Git Homeworks\homeworks\Homeworks - Mitko\Data-Types-and-Variables-Exercises - Mitko\06. Strings And Objects\obj\Debug\06. Strings And Objects.csprojResolveAssemblyReference.cache
-D:\SoftUni\Git Homeworks\homeworks\Homeworks - Mitko\Data-Types-and-Variables-Exercises - Mitko\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.exe
-D:\SoftUni\Git Homeworks\homeworks\Homeworks - Mitko\Data-Types-and-Variables-Exercises - Mitko\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.pdb

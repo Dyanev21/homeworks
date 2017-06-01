@@ -1,5 +1,0 @@
-D:\SoftUni\Git Homeworks\homeworks\Homeworks - Mitko\Data-Types-and-Variables-Exercises - Mitko\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
-D:\SoftUni\Git Homeworks\homeworks\Homeworks - Mitko\Data-Types-and-Variables-Exercises - Mitko\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
-D:\SoftUni\Git Homeworks\homeworks\Homeworks - Mitko\Data-Types-and-Variables-Exercises - Mitko\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
-D:\SoftUni\Git Homeworks\homeworks\Homeworks - Mitko\Data-Types-and-Variables-Exercises - Mitko\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
-D:\SoftUni\Git Homeworks\homeworks\Homeworks - Mitko\Data-Types-and-Variables-Exercises - Mitko\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb
