@@ -10,8 +10,12 @@ namespace _02.Practice_Floating_Points
     {
         static void Main(string[] args)
         {
-            double pi = 3.141592653589793238;
+            decimal pi = 3.141592653589793238m;
             Console.WriteLine(pi);
+            decimal num = 1.60217657m;
+            Console.WriteLine(num);
+            decimal num2 = 7.8184261974584555216535342341m;
+            Console.WriteLine(num2);
         }
     }
 }
