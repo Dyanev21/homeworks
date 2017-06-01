@@ -9,6 +9,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Practice Floating Point
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Practice Chars And Strings", "03. Practice Chars And Strings\03. Practice Chars And Strings.csproj", "{95D37BD0-0493-4233-A269-995A37FDA626}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Variable in Hex Format", "04. Variable in Hex Format\04. Variable in Hex Format.csproj", "{B9753646-98C7-4203-A23E-0030F2FB41F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Boolean Variable", "05. Boolean Variable\05. Boolean Variable.csproj", "{4F743CC2-558E-4698-B689-C03FF9BDE956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Strings And Objects", "06. Strings And Objects\06. Strings And Objects.csproj", "{ECC372EE-075D-47B0-B962-D939A40B3A7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Exchange Variable Values", "07. Exchange Variable Values\07. Exchange Variable Values.csproj", "{1687AA6F-9E39-4D95-82F0-34503EDFEDB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Employee Data", "08. Employee Data\08. Employee Data.csproj", "{6C261D4F-2A57-450A-8447-606118880A8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +37,26 @@ Global
 		{95D37BD0-0493-4233-A269-995A37FDA626}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95D37BD0-0493-4233-A269-995A37FDA626}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95D37BD0-0493-4233-A269-995A37FDA626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9753646-98C7-4203-A23E-0030F2FB41F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9753646-98C7-4203-A23E-0030F2FB41F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9753646-98C7-4203-A23E-0030F2FB41F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9753646-98C7-4203-A23E-0030F2FB41F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F743CC2-558E-4698-B689-C03FF9BDE956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F743CC2-558E-4698-B689-C03FF9BDE956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F743CC2-558E-4698-B689-C03FF9BDE956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F743CC2-558E-4698-B689-C03FF9BDE956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC372EE-075D-47B0-B962-D939A40B3A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC372EE-075D-47B0-B962-D939A40B3A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC372EE-075D-47B0-B962-D939A40B3A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC372EE-075D-47B0-B962-D939A40B3A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1687AA6F-9E39-4D95-82F0-34503EDFEDB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1687AA6F-9E39-4D95-82F0-34503EDFEDB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1687AA6F-9E39-4D95-82F0-34503EDFEDB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1687AA6F-9E39-4D95-82F0-34503EDFEDB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C261D4F-2A57-450A-8447-606118880A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C261D4F-2A57-450A-8447-606118880A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C261D4F-2A57-450A-8447-606118880A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C261D4F-2A57-450A-8447-606118880A8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
