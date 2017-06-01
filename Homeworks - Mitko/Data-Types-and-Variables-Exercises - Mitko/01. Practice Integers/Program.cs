@@ -21,7 +21,7 @@ namespace _01.Practice_Integers
             uint num5 = 2147483648;
             Console.WriteLine(num5);
             long num6 = -1141583228;
-            Console.WriteLine(num6);
+            Console.WriteLine(num6);    
             long num7 = -1223372036854775808;
             Console.WriteLine(num7);
         }
