@@ -4,15 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _02CyrcleArea
+namespace _02.Practice_Floating_Points
 {
     class Program
     {
         static void Main(string[] args)
         {
-            double radius = double.Parse(Console.ReadLine());
-            double area = radius * radius* Math.PI;
-            Console.WriteLine($"{area:F12}");
+            double pi = 3.141592653589793238;
+            Console.WriteLine(pi);
         }
     }
 }
