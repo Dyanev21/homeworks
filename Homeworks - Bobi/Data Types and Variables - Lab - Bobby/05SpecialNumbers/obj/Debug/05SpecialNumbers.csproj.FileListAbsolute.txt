@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\05SpecialNumbers\bin\Debug\05SpecialNumbers.exe.config
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\05SpecialNumbers\bin\Debug\05SpecialNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\05SpecialNumbers\bin\Debug\05SpecialNumbers.pdb
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\05SpecialNumbers\obj\Debug\05SpecialNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\05SpecialNumbers\obj\Debug\05SpecialNumbers.pdb
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\05SpecialNumbers\obj\Debug\05SpecialNumbers.csprojResolveAssemblyReference.cache

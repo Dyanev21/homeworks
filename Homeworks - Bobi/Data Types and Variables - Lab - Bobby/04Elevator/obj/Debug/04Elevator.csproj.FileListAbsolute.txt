@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\04Elevator\bin\Debug\04Elevator.exe.config
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\04Elevator\bin\Debug\04Elevator.exe
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\04Elevator\bin\Debug\04Elevator.pdb
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\04Elevator\obj\Debug\04Elevator.exe
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\04Elevator\obj\Debug\04Elevator.pdb

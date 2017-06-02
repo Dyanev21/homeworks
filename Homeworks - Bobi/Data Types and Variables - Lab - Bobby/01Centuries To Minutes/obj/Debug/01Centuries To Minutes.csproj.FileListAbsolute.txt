@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\01Centuries To Minutes\bin\Debug\01Centuries To Minutes.exe.config
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\01Centuries To Minutes\bin\Debug\01Centuries To Minutes.exe
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\01Centuries To Minutes\bin\Debug\01Centuries To Minutes.pdb
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\01Centuries To Minutes\obj\Debug\01Centuries To Minutes.exe
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\01Centuries To Minutes\obj\Debug\01Centuries To Minutes.pdb

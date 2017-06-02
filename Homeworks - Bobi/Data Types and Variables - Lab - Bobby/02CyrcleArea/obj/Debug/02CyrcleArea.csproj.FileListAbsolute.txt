@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\02CyrcleArea\bin\Debug\02CyrcleArea.exe.config
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\02CyrcleArea\bin\Debug\02CyrcleArea.exe
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\02CyrcleArea\bin\Debug\02CyrcleArea.pdb
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\02CyrcleArea\obj\Debug\02CyrcleArea.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\02CyrcleArea\obj\Debug\02CyrcleArea.exe
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\02CyrcleArea\obj\Debug\02CyrcleArea.pdb

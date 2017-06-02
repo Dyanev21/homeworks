@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\06TriplesOfLatinLetters\bin\Debug\06TriplesOfLatinLetters.exe.config
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\06TriplesOfLatinLetters\bin\Debug\06TriplesOfLatinLetters.exe
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\06TriplesOfLatinLetters\bin\Debug\06TriplesOfLatinLetters.pdb
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\06TriplesOfLatinLetters\obj\Debug\06TriplesOfLatinLetters.exe
+c:\users\user\documents\visual studio 2015\Projects\31.05.2017 Data Types and Variables\06TriplesOfLatinLetters\obj\Debug\06TriplesOfLatinLetters.pdb
